@@ -89,6 +89,7 @@
     <Compile Include="Assets\Oculus\SampleFramework\Editor\BuildAssetPackages.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Editor\OculusSampleFrameworkUtil.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Editor\OVROverlayCanvasEditor.cs" />
+    <Compile Include="Assets\Shared\Ramps\Editor\RampAssetEditor.cs" />
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>D:/hofla/Desktop/Projects/Unity/Projects/UVWD/NewTech_CaseyRandyNoxNouri/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
@@ -685,6 +686,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{8ACAD0A4-D5B4-F495-EC5F-5B0EE9C5096A}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{0608F352-803D-12F3-C6BF-57A8901FD416}</Project>
       <Name>Assembly-CSharp</Name>
