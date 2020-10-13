@@ -3,7 +3,82 @@ guid: 0469936dbf871684789778af0ada7251
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FAVPNG_graffiti-street-art_qW5PgNpB
+    second: {fileID: 2100000, guid: 1c6a9fb9b144fec45b8299eb3b7dda4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Graffiti_01.001
+    second: {fileID: 2100000, guid: fd1f573715f1de94292b37163d45221c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_01
+    second: {fileID: 2100000, guid: cfac1589b60f7c24ca130b8dcbde787b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_02
+    second: {fileID: 2100000, guid: 94212abf4ffac244ca2c0bd84b63f606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Alley
+    second: {fileID: 2100000, guid: eeb6b5413311e5b4383a03a4f4dbaa81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Beams
+    second: {fileID: 2100000, guid: 4dc674e5991efa74cb3f9966a925702e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_FLOOR
+    second: {fileID: 2100000, guid: 28e8da66853a90b419d9e7f268a09816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Floor
+    second: {fileID: 2100000, guid: 1e62cea1c1c02c64e95424bd017cf9ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_GREY
+    second: {fileID: 2100000, guid: b87662c5d295a804d9680271c28a3d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Shadow
+    second: {fileID: 2100000, guid: 79fd4204d00b4f747ae240d112d9be2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_WALLS2
+    second: {fileID: 2100000, guid: 0303932239685ea43a3d485ac7da9b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_WALL_DEFAULT
+    second: {fileID: 2100000, guid: 87e4e6f70174e4b4289cc5fb631c29e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 69a0384849a207544a1c046492fc8b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jing.fm-clipart-graffiti-4015369
+    second: {fileID: 2100000, guid: d63a00d7a80948948ae25aea98b943f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pnghut_graffiti-clip-art-image-painting-peace-sign_DLXYaMxq1U
+    second: {fileID: 2100000, guid: 3cef7888cc2d0a24fa3b9e0c7c0fb13e, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
