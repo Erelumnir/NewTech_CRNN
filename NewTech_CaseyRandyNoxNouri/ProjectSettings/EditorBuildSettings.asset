@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Game/_scenes/Greybox.unity
     guid: ca47060772981b545ae9b3cf0dc105a4
+  - enabled: 1
+    path: Assets/_Game/_scenes/Kitchen.unity
+    guid: 420547b82b357c549afc182debcd079a
   m_configObjects: {}
