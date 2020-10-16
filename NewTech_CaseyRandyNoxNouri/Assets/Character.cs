@@ -24,6 +24,11 @@ public class Character : MonoBehaviour
         this.text.text = text;
     }
 
+    public void StartTimer()
+    {
+        FindObjectOfType<Timer>().enabled = true;
+    }
+
     public void SetTexture(int withGun)
     {
         var renderer = GetComponent<Renderer>();
